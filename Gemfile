@@ -22,6 +22,7 @@ end
 group :test do
   gem 'rspec'
   gem 'capybara'
+  gem 'capybara-selenium'
 end
 
 group :production do
